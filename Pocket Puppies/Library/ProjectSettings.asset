@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: 6330f2f3006363f4aab2f5a792458935
+  productGUID: 03a244f69860f7e4d93a7e10919e1da3
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -633,7 +633,7 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: d99b4750-bab9-4af8-b71d-a775b95e6f5e
+  cloudProjectId: ae2f5edc-6308-42eb-b038-b057a895f7f9
   projectName: Pocket Puppies
   organizationId: santiago-quinio
   cloudEnabled: 0
